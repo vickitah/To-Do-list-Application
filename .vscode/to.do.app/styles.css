@@ -1,10 +1,12 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #121212;
-    color: white;
-    text-align: center;
-    padding: 20px;
+    background-image: url('https://i.dailymail.co.uk/i/pix/2015/10/01/00/041861460000044D-3255529-image-a-24_1443654798530.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 100vh; 
+    margin: 0;
 }
+
 
 .container {
     max-width: 400px;
@@ -36,7 +38,7 @@ ul {
 }
 
 li {
-    background: #444;
+    background: #f0eaea;
     padding: 8px;
     margin: 8px 0;
     display: flex;
